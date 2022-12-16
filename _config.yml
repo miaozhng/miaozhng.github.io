@@ -1,0 +1,119 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+name: Miao Zhang
+email: miaozhng@nyu.edu
+description: > # this means to ignore newlines until "url:"
+  Miao Zhang personal website
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  
+url: https://miaozhng.github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
+last_updated: # leave blank if you don't want to display last updated
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: miaozhng
+twitter_username: #mvishwali28
+linkedin_username: miao-zhang-vv
+scholar_userid: BcUu_r0AAAAJ
+
+
+contact_note: >
+  Please feel free to contact me via miaozhng@nyu.edu
+
+google_analytics: UA-XXXXXXXXX # out your google-analytics code
+
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+#blog_name: Blog
+#blog_description: Some things which I think are worth discussing
+
+# Pagination
+#paginate: 4
+#permalink: /blog/:year/:title/
+#paginate_path: /blog/page:num/
+
+#text:
+  #pagination:
+    #newer: 'Newer'
+    #older: 'Older'
+
+# Comments
+# disqus_shortname: al-folio # put your disqus shortname
+
+# Optional features
+show_social_icons:  true
+enable_anchorjs:    false
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: false
+    permalink: /projects/:path/
+  teaching:
+    output: false
+    permalink: /teaching/:path/
+news_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Includes & excludes
+include: ['_pages']
+exclude: ['_posts']
+exclude: [vendor]
+
+# Plug-ins
+plugins:
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
+
+# Jekyll-Scholar
+scholar:
+
+  last_name: Zhang
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"
