@@ -9,15 +9,27 @@ title: Publications
 [ [Preprint](https://arxiv.org/pdf/2403.10624)]
 
 
++ **Common-Sense Bias Discovery and Mitigation for Classification Tasks** <br/>
+**Miao Zhang**, Zee fryer, Ben Colman, Ali Shahriyari, Gaurav Bharaj <br/>
+[ [Preprint](https://arxiv.org/pdf/2401.13213)]
+
+
 + **Mitigating urban-rural disparities in contrastive representation learning with satellite imagery** <br/>
 **Miao Zhang**, Rumi Chunara <br/>
 *Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society* <br/>
 [ [Paper](https://arxiv.org/pdf/2211.08672)]
 
+
 + **Impact on Public Health Decision Making by Utilizing Big Data Without Domain Knowledge** <br/>
 **Miao Zhang**, Salman Rahman, Vishwali Mhasawade, Rumi Chunara <br/>
 *Proceedings of the National Academy of Sciences* <br/>
 [ [Paper](https://arxiv.org/pdf/2402.06059)]
+
+
++ **FLHetBench: Benchmarking Device and State Heterogeneity in Federated Learning** <br/>
+Junyuan Zhang, Shuang Zeng, **Miao Zhang**, Runxi Wang, Feifei Wang, Yuyin Zhou, Paul Pu Liang, Liangqiong Qu<br/>
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* <br/>
+
 
 + **Segmenting across places: The need for fair transfer learning with satellite imagery** <br/>
 **Miao Zhang**, Harvineet Singh, Lazarus Chok, Rumi Chunara <br/>
