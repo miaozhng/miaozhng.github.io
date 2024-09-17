@@ -4,9 +4,20 @@ permalink: /publications/
 title: Publications
 
 ---
-+ **Fair contrastive pre-training for geographic images (under review)** <br/>
++ **Leveraging vision-language models for fair facial attribute classification** <br/>
 **Miao Zhang**, Rumi Chunara <br/>
-[ [Draft](https://arxiv.org/pdf/2211.08672.pdf)]
+[ [Preprint](https://arxiv.org/pdf/2403.10624)]
+
+
++ **Mitigating urban-rural disparities in contrastive representation learning with satellite imagery** <br/>
+**Miao Zhang**, Rumi Chunara <br/>
+*Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society* <br/>
+[ [Paper](https://arxiv.org/pdf/2211.08672)]
+
++ **Impact on Public Health Decision Making by Utilizing Big Data Without Domain Knowledge** <br/>
+**Miao Zhang**, Salman Rahman, Vishwali Mhasawade, Rumi Chunara <br/>
+*Proceedings of the National Academy of Sciences* <br/>
+[ [Paper](https://arxiv.org/pdf/2402.06059)]
 
 + **Segmenting across places: The need for fair transfer learning with satellite imagery** <br/>
 **Miao Zhang**, Harvineet Singh, Lazarus Chok, Rumi Chunara <br/>
