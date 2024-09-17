@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2022-4-10
+date: 2022-11-15
 inline: true
 ---
-My Master's [work](https://ieeexplore.ieee.org/document/9806163) is accepted by IEEE Journal of Biomedical and Health Informatics.
+
+I gave a graduate student presentation about my research at [Diversity in Research Conference (DIRC 22)](https://dirc.info)
