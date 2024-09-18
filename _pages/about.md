@@ -17,9 +17,9 @@ I have broad interests in:
 
 **Trustworthy AI:** Algorithmic fairness, robustness, and generalization to out-of-domain.
 
-**Computer vision and multimodal** 
+**Computer vision and multimodal**: Label efficient representation learning.
 
-**Real-world health and environmental application** 
+**Health and environmental science**: To adapt pre-trained deep neural networks and LLM for domain specific applications. 
 
 
 
