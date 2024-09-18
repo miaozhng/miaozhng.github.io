@@ -16,7 +16,9 @@ I am a fourth year Ph.D. candidate at [New York University](https://www.nyu.edu/
 I have broad interests in:
 
 **Trustworthy AI:** Algorithmic fairness, robustness, and generalization to out-of-domain.
+
 **Computer vision and multimodal** 
+
 **Real-world health and environmental application** 
 
 
