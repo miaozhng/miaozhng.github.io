@@ -15,11 +15,11 @@ I am a fourth year Ph.D. candidate at [New York University](https://www.nyu.edu/
 
 I have broad interests in:
 
-**Trustworthy AI:** Algorithmic fairness, robustness, and generalization to out-of-domain.
+**Responsible AI:** Algorithmic fairness, robustness, and generalization to out-of-domain.
 
 **Computer vision and multimodal**: Label efficient representation learning.
 
-**Health and environmental science**: To adapt pre-trained deep neural networks and LLM for domain specific applications. 
+**Health and societal application**: To adapt pre-trained deep neural networks and LLM for domain specific applications. 
 
 
 
