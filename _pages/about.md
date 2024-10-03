@@ -19,7 +19,7 @@ I have broad interests in:
 
 **Computer vision and multimodal**: Label efficient representation learning.
 
-**Health and societal application**: To adapt pre-trained deep neural networks and LLM for domain specific applications. 
+**Health and social science**: To adapt pre-trained deep neural networks and LLM for domain specific applications. 
 
 
 
