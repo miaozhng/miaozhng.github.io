@@ -9,9 +9,10 @@ title: Publications
 [ [Preprint](https://arxiv.org/pdf/2403.10624)]
 
 
-+ **Common-Sense Bias Discovery and Mitigation for Classification Tasks** <br/>
++ **Common sense bias modeling for classification tasks.** <br/>
 **Miao Zhang**, Zee fryer, Ben Colman, Ali Shahriyari, Gaurav Bharaj <br/>
-[ [Preprint](https://arxiv.org/pdf/2401.13213)]
+*Proceedings of the 2025 AAAI Conference on Artificial Intelligence* <br/>
+[ [Paper](https://arxiv.org/pdf/2401.13213)]
 
 
 + **Mitigating urban-rural disparities in contrastive representation learning with satellite imagery** <br/>
