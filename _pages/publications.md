@@ -23,7 +23,7 @@ title: Publications
 
 + **Impact on Public Health Decision Making by Utilizing Big Data Without Domain Knowledge** <br/>
 **Miao Zhang**, Salman Rahman, Vishwali Mhasawade, Rumi Chunara <br/>
-*Proceedings of the National Academy of Sciences* <br/>
+*Proceedings of the National Academy of Sciences (PNAS)* <br/>
 [ [Paper](https://arxiv.org/pdf/2402.06059)]
 
 
