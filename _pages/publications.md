@@ -29,8 +29,8 @@ title: Publications
 
 + **FLHetBench: Benchmarking Device and State Heterogeneity in Federated Learning** <br/>
 Junyuan Zhang, Shuang Zeng, **Miao Zhang**, Runxi Wang, Feifei Wang, Yuyin Zhou, Paul Pu Liang, Liangqiong Qu<br/>
-*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* <br/>
-
+*Proceedings of the 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition* <br/>
+[ [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_FLHetBench_Benchmarking_Device_and_State_Heterogeneity_in_Federated_Learning_CVPR_2024_paper.pdf)]
 
 + **Segmenting across places: The need for fair transfer learning with satellite imagery** <br/>
 **Miao Zhang**, Harvineet Singh, Lazarus Chok, Rumi Chunara <br/>
