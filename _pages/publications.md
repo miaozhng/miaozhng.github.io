@@ -4,6 +4,12 @@ permalink: /publications/
 title: Publications
 
 ---
++ **Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration** <br/>
+Dongkyu Cho*, **Miao Zhang***, Rumi Chunara <br/>
+*NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models.* <br/>
+[ [Paper](https://arxiv.org/pdf/2509.21530)]
+
+
 + **Leveraging vision-language models for fair facial attribute classification** <br/>
 **Miao Zhang**, Rumi Chunara <br/>
 [ [Preprint](https://arxiv.org/pdf/2403.10624)]
